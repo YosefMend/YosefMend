@@ -29,8 +29,6 @@
 **🌐 Languages**  
 English, Hebrew, Russian & Spanish (learning)  
 
-    </td>
-    <td width="70%" valign="top">
 
 **🎯 Interests & Hobbies**  
 - Philosophy deep-dives & poetry writing  
@@ -52,11 +50,11 @@ English, Hebrew, Russian & Spanish (learning)
 ---
 
 ##### 📈 GitHub Stats
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=YosefMend&show_icons=true&theme=radical"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YosefMend&layout=compact&theme=radical"/>
-</p>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YosefMend&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YosefMend&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YosefMend&theme=github_dark" />
+</div>
 
-    </td>
   </tr>
 </table>
