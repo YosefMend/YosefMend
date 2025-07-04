@@ -1,17 +1,3 @@
-<!-- BADGES: build status, languages -->
-<p align="center">
-  <a href="https://github.com/YosefMend/leetcode-practice"><img src="https://img.shields.io/badge/LeetCode–Practice-blue?logo=leetcode&style=flat-square"/></a>
-  <a href="https://github.com/YosefMend/Pima-Diabetes-ML"><img src="https://img.shields.io/badge/Pima–Diabetes–ML-red?logo=tensorflow&style=flat-square"/></a>
-  <a href="https://github.com/YosefMend/GuessThatPokemon"><img src="https://img.shields.io/badge/GuessThatPokemon-green?logo=python&style=flat-square"/></a>
-</p>
-
-<div align="center">
-  <a href="https://linkedin.com/in/yosef-mendelson"><img src="https://img.shields.io/badge/LinkedIn–YosefMend-blue?logo=linkedin&style=flat-square"/></a>
-  <a href="mailto:yosefmendelson28@gmail.com"><img src="https://img.shields.io/badge/Email–yosefmendelson28@gmail.com-grey?logo=gmail&style=flat-square"/></a>
-</div>
-
----
-
 <table width="100%">
   <tr>
     <td width="30%" valign="top">
