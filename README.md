@@ -28,7 +28,7 @@ English, Hebrew, Russian & Spanish (learning)
 
 | Project | Tech | Description |
 |:-------:|:----:|:-----------|
-| [LeetCode-Practice](https://github.com/YosefMend/leetcode-practice) | Python, SQL | 200+ algorithm solutions w/ docs & tests |
+| [LeetCode-Practice](https://github.com/YosefMend/leetcode-practice) | Python, SQL | algorithm solutions w/ docs & tests |
 | [Pima-Diabetes-ML](https://github.com/YosefMend/Pima-Diabetes-ML) | Python, scikit-learn | Classification model on real-world dataset |
 | [GuessThatPokemon](https://github.com/YosefMend/GuessThatPokemon) | Flask, OpenCV | Interactive silhouette guessing game |
 | [Gold-Price-Analysis](https://github.com/YosefMend/Gold-Price-Data-Analysis) | Jupyter | Time-series & predictive modeling |
