@@ -1,16 +1,22 @@
-## Hi there 👋
+**Yosef Mendelson**  
+Data Analyst | B.Sc. Biochemistry (Minor in Computer Science)
 
-<!--
-**YosefMend/YosefMend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Healthcare analytics by day, finance & fintech curious by night.  
+Wannabe doctor turned Data digester.
 
-Here are some ideas to get you started:
+**Interests & Hobbies**  
+- Diving into Nietzsche, solzhenitsyn, Camus, Plato & the occasional sci-fi mind-bend  
+- Spinning words into poetry (and sometimes folding them into swan shapes)  
+- Solving daily chess puzzles—and protecting my 1020-day Duolingo streak  
+- Calisthenics workouts and coding marathons  
+- Chasing a Data Science role and the next Pokemon card!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages**  
+English | Hebrew | Russian | Spanish (in progress)
+
+---
+
+### Pinned Projects  
+- **LeetCode-Practice**: Python & SQL puzzles with step-by-step docs and tests  
+- **GuessThatPokemon**: Flask + OpenCV web game — “Who’s that Pokémon?” IRL  
+- **Gold-Price-Data-Analysis**: Jupyter notebooks exploring market trends  
